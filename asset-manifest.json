@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agnes-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/agnes-web/static/js/main.ebf00141.chunk.js",
+    "main.js.map": "/agnes-web/static/js/main.ebf00141.chunk.js.map",
+    "runtime-main.js": "/agnes-web/static/js/runtime-main.b7de73b0.js",
+    "runtime-main.js.map": "/agnes-web/static/js/runtime-main.b7de73b0.js.map",
+    "static/js/2.012dcc16.chunk.js": "/agnes-web/static/js/2.012dcc16.chunk.js",
+    "static/js/2.012dcc16.chunk.js.map": "/agnes-web/static/js/2.012dcc16.chunk.js.map",
+    "index.html": "/agnes-web/index.html",
+    "precache-manifest.9cfffce318504bbdb1bb4f7915f3a80f.js": "/agnes-web/precache-manifest.9cfffce318504bbdb1bb4f7915f3a80f.js",
+    "service-worker.js": "/agnes-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/agnes-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.012dcc16.chunk.js.LICENSE.txt": "/agnes-web/static/js/2.012dcc16.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/agnes-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7de73b0.js",
+    "static/js/2.012dcc16.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ebf00141.chunk.js"
+  ]
+}
